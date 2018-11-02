@@ -27,3 +27,5 @@ This is a repo that contains my Python 3 solutions to all problems in the Hacker
 5. Look at other solutions and find better solutions.
 6. Learn from other solutions and take notes down.
 7. Write down solution and thinkings in simple words.
+
+![Coding Practice Path](path.png)
