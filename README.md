@@ -1,6 +1,17 @@
 # HackerRank Interview Kit
 ### Python Solutions to HackerRank Interview Kit
+This is a repo that contains my solutions to all problems in the HackerRank Interview Kit.
 
+### Path
+1. Read and understand the problem.
+2. Consider edge cases in the problem.
+3. Write brute force (dummy) code to solve the problem.
+4. Try to optimise the code based on experience.
+5. Look at other solutions and find better solutions.
+6. Learn from other solutions and take notes down.
+7. Write down solution and thinkings in simple words.
+
+### Summary Table
 |           Subject          | Easy | Medium | Hard | Total | Interview Chance  |
 |:--------------------------:|:----:|:------:|:----:|:-----:|:-----------------:|
 |           Arrays           |   2  |    2   |   1  |   5   |        70%        |
