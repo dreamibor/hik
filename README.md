@@ -1,6 +1,6 @@
 # HackerRank Interview Kit
 ### About
-This is a repo that contains my Python 3 solutions to all problems in the HackerRank Interview Kit.
+This is a repo that contains my Python 3 solutions to all problems in the [HackerRank Interview Kit](https://www.hackerrank.com/interview/interview-preparation-kit).
 
 ### Summary Table
 |           Subject          | Easy | Medium | Hard | Total | Interview Chance  |
