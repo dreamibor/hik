@@ -21,15 +21,11 @@ def hourglassSum(arr):
 
 
 if __name__ == '__main__':
-    fptr = open(os.environ['OUTPUT_PATH'], 'w')
+    import unittest
 
-    arr = []
+    class TestHourGlassSum(unittest.TestCase):
+        def test_simple_input(self):
+            self.assertEqual('foo'.upper(), 'FOO')
+    
+    unittest.main()
 
-    for _ in range(6):
-        arr.append(list(map(int, input().rstrip().split())))
-
-    result = hourglassSum(arr)
-
-    fptr.write(str(result) + '\n')
-
-    fptr.close()
