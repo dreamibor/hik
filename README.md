@@ -18,6 +18,7 @@ This is a repo that contains Python 3 solutions to all problems in the [HackerRa
 |        Linked Lists        |   5  |    0   |   0  |   5   |         8%        |
 | Recursion and Backtracking |   1  |    3   |   0  |   4   |         5%        |
 |        Miscellaneous       |   1  |    3   |   0  |   4   |        ...        |
+|           Total            |  19  |    35  |  11  |   65  |        ...        |
 
 ### Path
 1. Read and understand the problem.
