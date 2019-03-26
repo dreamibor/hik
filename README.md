@@ -28,4 +28,8 @@ This is a repo that contains Python 3 solutions to all problems in the [HackerRa
 6. Learn from other solutions and take notes down.
 7. Write down solution and thinkings in simple words.
 
-![Coding Practice Path](path.png)
+![Coding Practice Path](practicing_path.png)
+
+### Data Structures and Algorithms Mind Map (in Chinese)
+
+![Data Structures and Algorithms Mind Map](data_structures_and_algorithms.jpg)
